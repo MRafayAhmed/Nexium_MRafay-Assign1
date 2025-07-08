@@ -109,6 +109,6 @@ Quotes are randomly selected from a local list on each click.
 
 ##  License
 
-This project is for educational/demo purposes only.
+This project is only for educational/demo purposes.
 
 
