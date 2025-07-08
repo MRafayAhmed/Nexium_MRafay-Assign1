@@ -58,16 +58,9 @@ assignment-1/
 
 ---
 
-##  How to Run Locally
+##  How to Run 
 
-> You **do NOT** need GitHub to run locally.
-
-### 1.  Open in VS Code
-
-- Extract the project zip
-- Open the `assignment-1` folder in VS Code
-
-### 2.  Install Dependencies
+### 1.  Install Dependencies
 
 Open terminal and run:
 
@@ -75,7 +68,7 @@ Open terminal and run:
 npm install
 ````
 
-### 3.  Start Development Server
+### 2.  Start Development Server
 
 ```bash
 npm run dev
@@ -85,7 +78,7 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-##  Optional: Deploy to Vercel
+##  Deploy to Vercel
 
 1. Go to [https://vercel.com](https://vercel.com)
 2. Sign in with GitHub
